@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "array": "c",
+        "hash_map": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "fits.h": "c",
+        "best_fit.h": "c",
+        "list": "c",
+        "*.tcc": "c",
+        "sort.h": "c",
+        "worst_fit.h": "c",
+        "stdio.h": "c"
+    }
+}
