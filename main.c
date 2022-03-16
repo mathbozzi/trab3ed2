@@ -6,7 +6,7 @@
 #define DISK_SIZE 1000000
 
 int cmpfunc(const void* a, const void* b) {
-	return (*(int*)b - *(int*)a);
+	return (*(int*)b - *(int*)a);  // desc
 }
 
 int main(int argc, char const* argv[]) {
